@@ -1,0 +1,10 @@
+{
+    "name": "grunt-livereload-whf",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "~0.4.3",
+        "matchdep": "~0.3.0",
+        "grunt-express": "~0.3.0",
+        "grunt-contrib-watch": "~0.6.0"
+    }
+}

@@ -1,0 +1,23 @@
+{
+	"js": [
+		{
+			"path": "**/*.js",
+			"base": "base1"
+		}
+	],
+	"css": [
+		{
+			"path": "**/*.css",
+			"base": "base1"
+		}
+	],
+	"ftl": [
+		{
+			"path": "**/*.ftl",
+			"base": "base1"
+		}
+	],
+	"bases": {
+		"base1": "../workspace/myproj/src/main/webapp/"
+	}
+}
